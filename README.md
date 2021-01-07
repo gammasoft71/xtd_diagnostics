@@ -1,5 +1,7 @@
 [![environment](docs/pictures/header.png)](https://gammasoft71.wixsite.com/xtd-environment)
 
+# xtd_diagnostics was merged into [xtd](https://github.com/gammasoft71/xtd).
+
 [![Build Status](https://travis-ci.org/gammasoft71/xtd_diagnostics.svg?branch=master)](https://travis-ci.org/gammasoft71/xtd_diagnostics)
 [![Build status](https://ci.appveyor.com/api/projects/status/2nlokdfs0w3c3jdx?svg=true)](https://ci.appveyor.com/project/gammasoft71/xtd-diagnostics)
 [![Reference Guide](https://img.shields.io/badge/code-Reference_Guide-brightgreen.svg)](https://codedocs.xyz/gammasoft71/xtd_diagnostics/)
